@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/negu02/TypeScript/issues"
   },
-  "homepage": "https://github.com/negu02/TypeScript#readme"
+  "homepage": "https://github.com/negu02/TypeScript#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^8.1.2",
+    "gulp-typescript": "^4.0.0-alpha.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
