@@ -1,0 +1,29 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "Aquí estaran todas mis aplicaciones the TypeScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/negu02/TypeScript.git"
+  },
+  "keywords": [
+    "Angular",
+    "Javascript"
+  ],
+  "author": "Nelson Guedes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/negu02/TypeScript/issues"
+  },
+  "homepage": "https://github.com/negu02/TypeScript#readme",
+  "devDependencies": {
+    "gulp-typescript": "^4.0.0-alpha.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
